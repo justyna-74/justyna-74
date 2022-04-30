@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justyna-74
 - 👀 I’m interested in creating the websites
-- 🌱 I’m currently learning how to progress from base level to hero in creating websites
-- 💞️ I’m looking to collaborate on the projects in french / polish languages
+- 🌱 I’m currently learning how to progress from base level to hero level in creating websites
+- 💞️ I’m looking for collaborating in the projects in french / polish languages
 - 📫 How to reach me ? --- just write me an emial: justyna.bruniaux74@protonmail.com
 
 <!---
